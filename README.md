@@ -1,5 +1,6 @@
 # Resource and Scaffold Generator
 #finished readme
+#important t-shirt business - let's do it
 ## Objectives
 
 1. Use the resource generator
